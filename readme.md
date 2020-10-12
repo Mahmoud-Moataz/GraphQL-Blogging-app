@@ -8,11 +8,11 @@ Application built by using **Prisma** ORM with **PostgreSQL** Database .
 
 App Models :
 
-- Users (createUser - update - delete - sort - ...)
+- **Users** (createUser - update - delete - sort - ...)
 
-- Posts (createPost - update - delete - sort - ...)
+- **Posts** (createPost - update - delete - sort - ...)
 
-- Comments (createComment - update - delete - sort - ...)
+- **Comments** (createComment - update - delete - sort - ...)
 
 
 Authintication using JSON Web Token **(JWT)**
