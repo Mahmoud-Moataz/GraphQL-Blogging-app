@@ -18,5 +18,5 @@ App Models :
 Authintication using JSON Web Token **(JWT)**
 
 App is deployed on **Heroku 
-- Link : https://enigmatic-everglades-15864.herokuapp.com/
+- Link : https://enigmatic-everglades-15864.herokuapp.com/**
 
