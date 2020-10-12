@@ -1,9 +1,9 @@
 # GraphQL Blogging Applicaton 
 
-Backend Blogging application API using GraphQl technology with Node.js . 
+Backend Blogging application API using **GraphQl** technology with **Node.js** . 
 
 
-Application built by using Prisma ORM with PostgreSQL Database .
+Application built by using **Prisma** ORM with **PostgreSQL** Database .
 
 
 App Models :
@@ -15,8 +15,8 @@ App Models :
 - Comments (createComment - update - delete - sort - ...)
 
 
-Authintication using JSON Web Token (JWT)
+Authintication using JSON Web Token **(JWT)**
 
-App is deployed on Heroku 
+App is deployed on **Heroku 
 - Link : https://enigmatic-everglades-15864.herokuapp.com/
 
